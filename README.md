@@ -1,5 +1,6 @@
-# drone
-drone project, will contain hardware and software information
+# Drone Project
+Drone project, will contain hardware and software information for creating an
+autonomous drone  
 
 ## Part List
 - F330 Frame
