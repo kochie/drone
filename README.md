@@ -1,6 +1,13 @@
 # Drone Project
-Drone project, will contain hardware and software information for creating an
-autonomous drone  
+Drone project, will contain hardware and software information for creating an autonomous drone with autopilot capabilities as well as manual flight.
+
+## Objectives
+- Autonomous Flight
+- Live camera data
+- Tricks/Flips
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/-73Bp3HkLTs&list=WL/0.jpg)](https://www.youtube.com/watch?v=-73Bp3HkLTs&list=WL)
+
 
 ## Part List
 - F330 Frame
@@ -13,3 +20,4 @@ autonomous drone
 - Edison
 - Transmitter
 - Receiver
+- Camera
