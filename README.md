@@ -6,7 +6,7 @@ Drone project, will contain hardware and software information for creating an au
 - Live camera data
 - Tricks/Flips
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/-73Bp3HkLTs&list=WL/0.jpg)](https://www.youtube.com/watch?v=-73Bp3HkLTs&list=WL)
+[![DRONE VIDEO](http://img.youtube.com/vi/-73Bp3HkLTs/1.jpg)](https://www.youtube.com/watch?v=-73Bp3HkLTs)
 
 
 ## Part List
